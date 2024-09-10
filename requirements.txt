@@ -1,0 +1,9 @@
+#All project requirements
+torch==2.4.1
+torchvision==0.19.1
+matplotlib=2.2.5
+
+#Reinforcement learning additional requirements
+pygame=2.2.0
+numpy=1.26.4
+ipython==8.18.1
